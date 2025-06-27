@@ -59,3 +59,22 @@ By investing time in thorough Requirement Analysis, teams can deliver higher-qua
 5. **Facilitates Better Risk Management**  
    By uncovering constraints and assumptions up front, teams can identify potential technical or business risks early and plan appropriate mitigation.  
 
+
+   ## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**  
+  Collecting all relevant information about the system’s needs from stakeholders, business documents, existing systems, and market research.
+
+- **Requirement Elicitation**  
+  Using techniques like interviews, workshops, surveys, and observation to draw out both explicit and tacit requirements from users and stakeholders.
+
+- **Requirement Documentation**  
+  Organizing and recording requirements in clear, standardized formats (user stories, use cases, SRS) so they can be reviewed and agreed upon.
+
+- **Requirement Analysis and Modeling**  
+  Examining requirements for completeness, consistency, feasibility, and priority; creating models (data flow diagrams, UML diagrams) to visualize system behavior and relationships.
+
+- **Requirement Validation**  
+  Reviewing and verifying requirements with stakeholders through walkthroughs, prototyping, and formal inspections to ensure accuracy and alignment with business goals.  
+
+
