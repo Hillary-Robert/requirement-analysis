@@ -11,3 +11,33 @@ This repository covers the fundamental activities, techniques, and best practice
 - Examples and exercises to practice requirement gathering and specification  
 
 By following the materials here, you’ll gain a clear understanding of how to gather, document, validate, and manage software requirements effectively.
+
+
+## What is Requirement Analysis?
+
+Requirement Analysis is the process of identifying, documenting, and validating the needs and constraints of stakeholders for a software system. It serves as the bridge between business needs and the technical solution, ensuring that the final product delivers exactly what users expect.
+
+Key aspects of Requirement Analysis:
+
+- **Elicitation**  
+  Gathering information through interviews, workshops, questionnaires, observation, and document studies.  
+- **Documentation**  
+  Organizing requirements into clear, unambiguous artifacts (user stories, use cases, requirement specifications).  
+- **Validation & Verification**  
+  Reviewing requirements with stakeholders to confirm accuracy, consistency, feasibility, and completeness before moving on to design and development.  
+- **Prioritization**  
+  Ranking requirements by business value, risk, and technical dependency to guide iterative planning and resource allocation.
+
+### Why It Matters in the SDLC
+
+1. **Reduces Rework & Cost**  
+   Catching misunderstandings early prevents costly changes in later phases (design, coding, testing).  
+2. **Aligns Stakeholders**  
+   Provides a shared vision of what the software must do, minimizing conflicts and scope creep.  
+3. **Improves Quality**  
+   Well-defined requirements become the baseline for test cases, ensuring the system meets its intended purpose.  
+4. **Supports Project Planning**  
+   Clear requirements allow for realistic estimates of time, effort, and budget, leading to smoother project execution.
+
+By investing time in thorough Requirement Analysis, teams can deliver higher-quality software on time and within budget, with greater confidence that it meets user needs.
+
