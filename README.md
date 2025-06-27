@@ -129,4 +129,17 @@ Non‐functional requirements define **how** the system performs. Examples for o
   - Meet PCI DSS requirements for processing payment card information.
 
 
+  ## Use Case Diagrams
+
+Use Case Diagrams show the interactions between users (actors) and the system’s functionality (use cases). They help teams:
+- Visualize system scope and user interactions  
+- Clarify requirements by mapping out who does what  
+- Identify missing or redundant use cases early in the SDLC
+
+Below is a sample use case diagram for our booking management system. Save the image as `alx-booking-uc.png` in the project root and include it here:
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
+
+
 
